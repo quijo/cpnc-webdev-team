@@ -18,6 +18,6 @@
         @endif
     </head>
    <body>
-    <h1>I am Development Branch</h1>
+            <x-nav></x-nav>
     </body>
 </html>
