@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-  
 
-</head>
-<body>
     <section class="news">
         <h1 class="events">Events</h1>
     <div class="card">
-        <img src="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/475857935_1096299049175804_369178114615784792_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aywVT8tIjYMQ7kNvgFoie32&_nc_oc=AdjBp6CdLhfbl0ToQytlAGCNZC-dWJh7YI3vkH2z_BAZS-GyHMLd4hHh7RikInUfa94&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&_nc_gid=Aze0U8XvroK_b-WGnq6Z73s&oh=00_AYAmCQunA2bwyvYgUNsJCgnLqqhHHqwrvMWGc2I-2RCN3w&oe=67B89081" alt="">    
+        <img src="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/475857935_1096299049175804_369178114615784792_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aywVT8tIjYMQ7kNvgFoie32&_nc_oc=AdjBp6CdLhfbl0ToQytlAGCNZC-dWJh7YI3vkH2z_BAZS-GyHMLd4hHh7RikInUfa94&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&_nc_gid=Aze0U8XvroK_b-WGnq6Z73s&oh=00_AYAmCQunA2bwyvYgUNsJCgnLqqhHHqwrvMWGc2I-2RCN3w&oe=67B89081" alt="">
         <h3>Title</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illo et quae consequatur excepturi nostrum exercitationem fugit maiores, maxime cumque distinctio magnam animi ipsam, modi dolorem molestiae quisquam! Omnis, natus.</p>
         </div>
@@ -45,5 +36,4 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illo et quae consequatur excepturi nostrum exercitationem fugit maiores, maxime cumque distinctio magnam animi ipsam, modi dolorem molestiae quisquam! Omnis, natus.</p>
     </div>
     </section>
-</body>
-</html>
+
