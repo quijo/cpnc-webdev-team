@@ -1,0 +1,26 @@
+.news{
+    display: flex; 
+    padding: 20px;
+    width: 100%;
+    gap: 100px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+section .card{
+    height: 350px;
+    width: 320px;
+    border: 1px solid black;    
+    padding: 10px;
+    border-radius: 10px;
+}
+img{
+    width: 320px;
+    height: 200px;
+}
+.events{
+    width: 100%;
+    padding: 30px;
+    background-color: royalblue;
+    text-align: center;
+}
