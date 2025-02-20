@@ -4,6 +4,12 @@
     padding: 0;
 }
 body, html{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Lato", serif;
     height: 100%;
 }
+:root {
+    --primary-yellow: #f5c71a;
+    --secondary-yellow:#fbec5d;
+    --primary-blue: #0080ff;
+    --white: #ffffff;
+  }
