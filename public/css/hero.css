@@ -1,10 +1,11 @@
 .hero{
-    height: 100vh;
+
     background-image: url("https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/470205265_997865675693263_4016524895597448717_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGOn4J6OFf66pojNpHqvOPxS5L5sipqOPFLkvmyKmo48f5di5uF2HrNYu29R56psw5oFMPgxXicTeGb_7Q2RzmB&_nc_ohc=OjwPLwhEIUYQ7kNvgEhqnWE&_nc_oc=Adj3qOqcT9HZUtMPOuTjQUdvbdT5FRTDNF-4ipBWZrguOyH2K5E9WqU_wrfMjeEJiVM&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&_nc_gid=AXSQuVeLRLL282u5GtFNEY9&oh=00_AYBZ62yjhJZNnYYGVFAwSCjF1feKywriBrgF4QqyUhkavQ&oe=67B8A33D");
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
+
 }
 .herodesc{
     border-radius: 5px;
@@ -18,6 +19,8 @@
     font-family: "Lato", serif;
     font-weight: 900;
     font-style: italic;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 .herodesc p{
     margin: 30px 0px 40px 0px;
