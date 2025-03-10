@@ -1,0 +1,22 @@
+.academics{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    gap: 30px;
+    align-items: center;
+    background-color: #fbec5d;
+}
+.acadtitle{
+    width: 100%;
+}
+.acadhero{
+    width: 500px;
+    height: 300px;
+    background-image: url("https://scontent.fceb2-1.fna.fbcdn.net/v/t39.30808-6/349342205_711968934018590_5306185366394964579_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeEwDXV5ZQFNtdqAxT6KX4dpzNJTCmL8ylzM0lMKYvzKXP5F79lwB463gNvoG9g3g-xq_7RvxJ5NUFrenp4RaY5s&_nc_ohc=gtypHSn9xMgQ7kNvgF8d6eq&_nc_oc=AdgEK1f7lPWse-DPBewslSDZNWEu1q8GpAG0WHS41W02yYXK8xjdZZ3J8MlkR6b0gkE&_nc_zt=23&_nc_ht=scontent.fceb2-1.fna&_nc_gid=AbHLincDBVG8nzRc6r9tCo7&oh=00_AYA6ieVe5C8HAVBNyxlwLtNMbS0-sAm27-EbIwpGlAu2Cw&oe=67CF0273");
+    background-size: cover;
+    background-position: center;
+}
+.pushinp{
+    width: 1000px;
+    text-align: center;
+}

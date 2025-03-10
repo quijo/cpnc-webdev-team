@@ -14,6 +14,7 @@
         <link rel="stylesheet" href="{{ asset('css/hero.css') }}">
         <link rel="stylesheet" href="{{ asset('css/main.css') }}">
         <link rel="stylesheet" href="{{ asset('css/nav.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/academics.css') }}">
         <link rel="stylesheet" href="{{ asset('css/aboutus.css') }}">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,11 +32,10 @@
     </head>
    <body>
             <x-nav></x-nav>
-
             <x-hero></x-hero>
-
             <x-events></x-events>
             <x-aboutus></x-aboutus>
+            <x-academics></x-academics>
 
     </body>
 </html>
