@@ -1,22 +1,67 @@
-.academics{
+.academics {
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    min-height: 100vh;
     gap: 30px;
     align-items: center;
-    background-color: #fbec5d;
+    text-align: center;
+    padding: 20px;
 }
-.acadtitle{
+
+.acadtitle {
     width: 100%;
+    text-align: center;
+    background-color: #007bff;
+    color: white; 
+    padding: 15px 0; 
+    font-size: 24px; 
+    font-weight: bold;
 }
-.acadhero{
+
+.acadhero {
     width: 500px;
     height: 300px;
-    background-image: url("https://scontent.fceb2-1.fna.fbcdn.net/v/t39.30808-6/349342205_711968934018590_5306185366394964579_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeEwDXV5ZQFNtdqAxT6KX4dpzNJTCmL8ylzM0lMKYvzKXP5F79lwB463gNvoG9g3g-xq_7RvxJ5NUFrenp4RaY5s&_nc_ohc=gtypHSn9xMgQ7kNvgF8d6eq&_nc_oc=AdgEK1f7lPWse-DPBewslSDZNWEu1q8GpAG0WHS41W02yYXK8xjdZZ3J8MlkR6b0gkE&_nc_zt=23&_nc_ht=scontent.fceb2-1.fna&_nc_gid=AbHLincDBVG8nzRc6r9tCo7&oh=00_AYA6ieVe5C8HAVBNyxlwLtNMbS0-sAm27-EbIwpGlAu2Cw&oe=67CF0273");
+    background-image: url("https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/476159830_1038848248261672_585620275986478700_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFsBvyPzIsyn65Vju1TO6Z-GT_RCNPVLBMZP9EI09UsExkd-gSyKUapvWinCqkrc7HRfs8QN1DEiHDKJ-zSznVl&_nc_ohc=RRPX_8zSqJsQ7kNvgH1sBet&_nc_oc=Adi1JIdYyQWAsv0hUbDw8alSwldnT_4LDm5VB1pLiFtmx7ER-vsCCbBPdnixNnW2GhY&_nc_zt=23&_nc_ht=scontent.fceb6-1.fna&_nc_gid=AAJssAXbgPwW5P-Inx0RI0Y&oh=00_AYGIk3CSOnGn8rm29FGkria25zd3vsBanmvqycdZcQzkHQ&oe=67D46268");
     background-size: cover;
     background-position: center;
+    border-radius: 10px;
 }
-.pushinp{
-    width: 1000px;
+
+.pushinp {
+    max-width: 1000px;
     text-align: center;
+    font-size: 16px;
 }
+
+.educationtype {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items: flex-start;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.basiced, .collegeed {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.basicedimg, .collegeimg {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.edu-text {
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
