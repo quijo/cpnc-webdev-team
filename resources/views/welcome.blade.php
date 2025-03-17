@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="{{ asset('css/main.css') }}">
         <link rel="stylesheet" href="{{ asset('css/nav.css') }}">
         <link rel="stylesheet" href="{{ asset('css/aboutus.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/acads.css') }}">
         <link rel="stylesheet" href="{{ asset('css/footer.css') }}">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -37,6 +38,7 @@
 
             <x-events></x-events>
             <x-aboutus></x-aboutus>
+            <x-acads></x-acads>
             <x-footer></x-footer>
 
     </body>
