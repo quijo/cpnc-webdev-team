@@ -1,0 +1,30 @@
+.acads{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.acadshero img{
+    margin-top: 3px;
+    object-fit: cover;
+    height: 250px;
+}
+.acadbarintro h1{
+    margin: 0;
+}
+.academiccards{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.acadcard{
+    width: 320px;
+}
+.acadcard img{
+    border-radius: 10px;
+}
+.acadcard p{
+    font-size: small;
+}
