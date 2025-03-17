@@ -4,10 +4,6 @@ h1{
     padding: 20px;
     margin-top: 20px;
     color: white;
-<<<<<<< HEAD
-
-=======
->>>>>>> aboutus/amery
 }
 .aboutus{
     display: flex;
@@ -40,14 +36,8 @@ h1{
     display: flex;
     flex-direction: column;
     gap: 10px;
-<<<<<<< HEAD
     border: 2px black solid;
     border-radius: 5px;
-=======
-    border: 1px black solid;
-    border-radius: 5px;
-    padding: 10px;
->>>>>>> aboutus/amery
 }
 .wtext2{
     margin-top: 100px;
@@ -58,10 +48,7 @@ h1{
     gap: 10px;
     border: 2px black solid;
     border-radius: 5px;
-<<<<<<< HEAD
-=======
     padding: 10px;
->>>>>>> aboutus/amery
 }
 h2{
     text-align: center;
@@ -77,13 +64,9 @@ h2{
 }
 .leaderpic{
     height: 300px;
-<<<<<<< HEAD
-    width: 600px;
-=======
     width: 500px;
     border-radius: 10px;
 }
 .smallimg{
     height: 120px;
->>>>>>> aboutus/amery
 }
