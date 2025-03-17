@@ -2,38 +2,38 @@
     <section class="news">
         <h1 class="events">Events</h1>
     <div class="card">
-        <img src="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/475857935_1096299049175804_369178114615784792_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aywVT8tIjYMQ7kNvgFoie32&_nc_oc=AdjBp6CdLhfbl0ToQytlAGCNZC-dWJh7YI3vkH2z_BAZS-GyHMLd4hHh7RikInUfa94&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&_nc_gid=Aze0U8XvroK_b-WGnq6Z73s&oh=00_AYAmCQunA2bwyvYgUNsJCgnLqqhHHqwrvMWGc2I-2RCN3w&oe=67B89081" alt="">
-        <h3>Title</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illo et quae consequatur excepturi nostrum exercitationem fugit maiores, maxime cumque distinctio magnam animi ipsam, modi dolorem molestiae quisquam! Omnis, natus.</p>
+        <img src="{{ asset('images/dspc.jpg') }}" alt="">
+        <h3>Always Rising To the Challenge</h3><br>
+        <p>Let's gather together to celebrate God's grace and faithfulness that has guided us through the years. We invite you to an evening filled with uplifting music, heartfelt testimonies, and communal prayer with the CPNC family. </p>
         </div>
     <div class="card">
-        <img src="https://scontent.fceb6-2.fna.fbcdn.net/v/t39.30808-6/477601239_1102357918569917_4951403480113378367_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=1Uus7IMo0AYQ7kNvgFOOvAV&_nc_oc=AdgsE2i7iV1oqDO2saZiQKqUK0cLnwJsgJSN_-Wnm4sygB2jseng8PfoQq-ggsOjlIA&_nc_zt=23&_nc_ht=scontent.fceb6-2.fna&_nc_gid=A8CFCjlJzfNdGKJ3JR0ClyC&oh=00_AYBciIVp20QR_-uYO9WvoFtl_BAID53VEM2h-qxfMB9VfQ&oe=67B8A863" alt="">
-        <h3>Title</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illo et quae consequatur excepturi nostrum exercitationem fugit maiores, maxime cumque distinctio magnam animi ipsam, modi dolorem molestiae quisquam! Omnis, natus.</p>
+        <img src="{{ asset('images/bgbsports.jpg') }}" alt="">
+        <h3>| BGBP7 SPORTS FEST 2024 |         </h3><br>
+        <p>With action-packed games and roaring cheers, the Boys and Girls Brigade Philippines Region 7 celebrated its second BGBP7 Sportsfest on October 7, 2024, with 10 schools participating and the Evangelical Theological College of the Philippines as the host of the games.</p>
 
     </div>
     <div class="card">
-    <img src="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/477578843_1102356431903399_3110628929506937709_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=dlGFjc-26gcQ7kNvgHVrgtE&_nc_oc=AdgFkW2YaH627kyXw6bCTymhtPIxSwFtZUyeKP6GN1CJjjt6exMf2IP3mPQhAKkVzvU&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&_nc_gid=A8CFCjlJzfNdGKJ3JR0ClyC&oh=00_AYAGG47oVOKvIYaLkdclncPIRnAELo8NL9-EnnNeeWKd_g&oe=67B8B7B3" alt="">
-    <h3>Title</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illo et quae consequatur excepturi nostrum exercitationem fugit maiores, maxime cumque distinctio magnam animi ipsam, modi dolorem molestiae quisquam! Omnis, natus.</p>
+    <img src="{{ asset('images/firedrill.jpg') }}" alt="">
+    <h3>FIRE DRILL AND SAFETY ORIENTATION</h3><br>
+    <p>On November 22, 2024, the Bureau of Fire Protection of Lahug, Cebu City, led by FO3 Cris Xyrus M Chavez, FO3 Marlon A Yap, and FO2 Grendo B Betonio, conducted a Fire Safety Lecture at the Central Philippine Nazarene College Campus (CPNC). </p>
 
     </div>
     <div class="card">
-    <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/476469614_1102358788569830_3767365203870224067_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p5BIwtHQpHQQ7kNvgGrTjRT&_nc_oc=AdidhoI3Lwjme6tkoD6dTL8Gaxe1bZf6WjaeA2JqBVk5esQZOuyIMt6xEGLUPfUWplQ&_nc_zt=23&_nc_ht=scontent.fceb6-1.fna&_nc_gid=A8CFCjlJzfNdGKJ3JR0ClyC&oh=00_AYDfJO9WezHOLgMZ8BlBK3QrUHzLn6RZhUlTaC2pawmSGg&oe=67B8BCAB" alt="">
-    <h3>Title</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illo et quae consequatur excepturi nostrum exercitationem fugit maiores, maxime cumque distinctio magnam animi ipsam, modi dolorem molestiae quisquam! Omnis, natus.</p>
+    <img src="{{ asset('images/thanksgiving.jpg') }}" alt="">
+    <h3>Thanksgiving and Lighting Ceremony 2024</h3><br>
+    <p>"In gratitude for gifts above, we gather with thanks, filled with God's love."</p>
 
     </div>
     <div class="card">
-    <img src="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/477578843_1102356431903399_3110628929506937709_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=dlGFjc-26gcQ7kNvgHVrgtE&_nc_oc=AdgFkW2YaH627kyXw6bCTymhtPIxSwFtZUyeKP6GN1CJjjt6exMf2IP3mPQhAKkVzvU&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&_nc_gid=A8CFCjlJzfNdGKJ3JR0ClyC&oh=00_AYAGG47oVOKvIYaLkdclncPIRnAELo8NL9-EnnNeeWKd_g&oe=67B8B7B3" alt="">
-    <h3>Title</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illo et quae consequatur excepturi nostrum exercitationem fugit maiores, maxime cumque distinctio magnam animi ipsam, modi dolorem molestiae quisquam! Omnis, natus.</p>
+    <img src="{{ asset('images/sportmeet.jpg') }}" alt="">
+    <h3>VICTORY IS OURS!</h3><br>
+    <p>Congratulations to our incredible Table Tennis Team, The Central Smash, for their outstanding performance at the Unit 6 Meet Sports Event. </p>
 
     </div>
     <div class="card">
-    <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/476053448_1098525738953135_6981154836632336238_n.jpg?stp=dst-jpg_p526x395_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6HZ5KAxA818Q7kNvgEjzYVY&_nc_oc=Adhrt47kw8sJmuv1UMZzMR7MsBDuQyeGSRuJxCXJfnMRLz1nqpzNpIPQ5_ljIbcH4L0&_nc_zt=23&_nc_ht=scontent.fceb6-1.fna&_nc_gid=AsjU-2hNi2YH4xh1kik8ekO&oh=00_AYCX35gVNCU6MvG4wtztcs4HufcU6aaeDOOz_D5K7pBIdA&oe=67B8B4A1" alt="">
-    <h3>Title</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illo et quae consequatur excepturi nostrum exercitationem fugit maiores, maxime cumque distinctio magnam animi ipsam, modi dolorem molestiae quisquam! Omnis, natus.</p>
+    <img src="{{ asset('images/sportsfest.jpg') }}" alt="">
+    <h3>| SPORTS FEST 2024 | </h3><br>
+    <p>With thrilling games and roaring cheers, the Basic Education Department of Central Philippine Nazarene College proudly celebrated its first Sports Fest alongside the College Department on October 28 and 29!</p>
     </div>
     </section>
 
