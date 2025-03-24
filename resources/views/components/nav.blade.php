@@ -1,5 +1,5 @@
 <header>
-    <nav>
+    <nav data-aos="fade-down" data-aos-duration="1500">
        <a href="#" class="logo">CPNC</a>
        <ul class="menu">
             <li><a href="#">home</a></li>

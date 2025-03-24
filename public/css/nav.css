@@ -1,26 +1,29 @@
-header{
+header {
     background-color: rgba(247, 211, 52, 1);
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensures it stays above other content */
 }
-nav{
+nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
     padding: 1rem 5rem;
 }
-nav ul{
+nav ul {
     display: flex;
     gap: 1rem;
 }
-nav ul li{
+nav ul li {
     list-style: none;
 }
-nav ul li a{
+nav ul li a {
     text-decoration: none;
     text-transform: uppercase;
-    color:royalblue;
+    color: royalblue;
 }
-nav .logo{
+nav .logo {
     text-decoration: none;
     color: royalblue;
     font-weight: 800;

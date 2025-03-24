@@ -12,7 +12,8 @@
         <div class="footer-section social-media">
             <h3>Follow Us</h3>
             <a href="https://www.facebook.com/cpncMain/" target="_blank">
-                <img src="facebook-icon.png" alt="Facebook">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="Facebook">
+                Facebook
             </a>
             <!-- Add other social media icons as needed -->
         </div>

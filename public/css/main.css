@@ -3,9 +3,11 @@
     box-sizing: border-box;
     padding: 0;
 }
-body, html{
+body, html{    
     font-family: "Lato", serif;
     height: 100%;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
 }
 :root {
     --primary-yellow: #f5c71a;
