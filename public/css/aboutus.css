@@ -9,53 +9,68 @@ h1{
 .aboutus{
     display: flex;
     flex-direction: column;
-    gap: 50px;
     box-sizing: border-box;
     flex-wrap: wrap;
+    justify-content: center;
 }
-.mainimg{
-    margin-top: 20px;
-    height: 250px;
-    width: 100%;
-    border: 1px black solid;
-    background-image: url(https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/480816083_1109425121196530_8648678342173097666_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGLHS1wpojyyA_ZMcnPsvdqnjklHBZ5iaWeOSUcFnmJpeuzYDxP97gQAPUsH8m8NNhedrE5uI40mNKioAzNhHgF&_nc_ohc=pi6eQLzosP0Q7kNvgF2_GzC&_nc_oc=AdiOyRKGnRamRlSKPz8X5lRZ9BskQKEg35u5pxVx7U2HZGsptA1RV1ptEBfBz93GTes&_nc_zt=23&_nc_ht=scontent.fceb6-1.fna&_nc_gid=A4COK7TLcM9RKdZVSbutzM8&oh=00_AYCdpzvr7wIepNkzCAHYaP7yTsiNv5IJ0n9fkyDJBHQxBg&oe=67BC894D);
+#upimg img{
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    height: 360px;
+    width: 70%;
+    margin-top: 2px;
 }
 .boxes, .textimg{
     display: flex;
     flex-direction: row;
-    gap: 30px;
     justify-content: center;
-    height: 190px;
+    height: 200px;
     flex-wrap: wrap;
 }
-.wtext1{
-    height: 300px;
-    width: 200px;
+.textimg{
+    gap: 14rem;
+}
+.boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 220px;
+    flex-wrap: wrap;
+    gap: 0;
+    background: linear-gradient(to right, #f0f4f8, #d9e2ec);
+    border-radius: 15px;
+    overflow: hidden;
+}
+.text1 {
+    height: auto;
+    width: 220px;
+    border-right: 1px solid #ccc;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+}
+.wtext{
+    margin-top: 100px;
+    width: 500px;
     display: flex;
     flex-direction: column;
     gap: 10px;
-    border: 2px black solid;
-    border-radius: 5px;
-    border: 1px black solid;
-    border-radius: 5px;
     padding: 10px;
 }
-.wtext2{
-    margin-top: 100px;
-    height: 370px;
-    width: 350px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    border: 2px black solid;
-    border-radius: 5px;
-    padding: 10px;
+.smallimg{
+    object-fit: cover;
+    height: 250px;
+    width: auto;
 }
 h2{
     text-align: center;
 }
 .leaders{
-    margin-top: 250px;
+    margin-top: 350px;
     display: flex;
     flex-direction: column;
     gap: 30px;
@@ -68,7 +83,4 @@ h2{
     width: 600px;
     width: 500px;
     border-radius: 10px;
-}
-.smallimg{
-    height: 120px;
 }
