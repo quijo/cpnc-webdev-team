@@ -1,16 +1,29 @@
 .news{
+    height: 800px;
     display: flex;
     width: 100%;
-    gap: 100px;
     flex-wrap: wrap;
     align-items: first baseline baseline;
     justify-content: center;
 }
-section .card{
-    width: 320px;
+.events{
+    height: 6rem;
+    width: 100%;
+    padding: 22px;
+    background-color: royalblue;
+    text-align: center;
+    color:white;
+}
+.container{
+    margin-top: -50px;
+}
+.card{
+    max-height: 30rem;
+    width: 18rem;
     border: 1px solid black;
     padding: 10px;
     border-radius: 10px;
+    overflow: hidden;
 }
 img{
     width: 100%;
@@ -18,17 +31,13 @@ img{
     border-radius: 10px;
     margin-bottom: 10px;
 }
-.events{
-    width: 100%;
-    padding: 30px;
-    background-color: royalblue;
-    text-align: center;
-    color:white;
-}
 h3{
     font-family: "Courier New", Courier;
     font-weight: bold;
     text-transform: uppercase;
     color: #333;
-    transform: scaleY(1.2);
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black;
 }
